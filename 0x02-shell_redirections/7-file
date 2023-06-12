@@ -1,2 +1,3 @@
 #!/bin/bash
 echo "Best School" > \\\*\\\\"'\"Best School\"\\'"\\\\\*\$\\\?\\\*\\\*\\\*\\\*\\\*:\)
+grep -i -v "bin" /etc/passwd
