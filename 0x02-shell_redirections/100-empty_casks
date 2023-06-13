@@ -1,0 +1,2 @@
+#!/bi/bash
+find . -empty -printf '%f\n'
